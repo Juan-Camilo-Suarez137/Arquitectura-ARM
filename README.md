@@ -17,11 +17,11 @@ El lenguaje ensamblador para la arquitectura ARM es un lenguaje de programación
 ## Estructura Básica de un Programa en Ensamblador ARM
 Un programa típico en ensamblador ARM se compone de las siguientes secciones:
 
-    - .text: Contiene el código ejecutable.
+- .text: Contiene el código ejecutable.
 
-    - .data: Almacena datos inicializados.
+- .data: Almacena datos inicializados.
 
-    - .bss: Reserva espacio para datos no inicializados.
+- .bss: Reserva espacio para datos no inicializados.
 
 ## Conjunto de Instrucciones ARM
 El conjunto de instrucciones ARM incluye diversas categorías, entre las cuales destacan:
