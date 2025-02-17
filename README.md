@@ -21,11 +21,11 @@ Evolucion tecnologica
 A lo largo de los años, ARM ha lanzado nuevas generaciones de procesadores:
 
 ARMv5 (1999): Mejor eficiencia y rendimiento.
-ARM9, ARM10 y ARM11: Avances en procesamiento.
-Familia Cortex:
-Cortex-A: Alto rendimiento.
-Cortex-R: Tiempo real.
-Cortex-M: Bajo consumo.
+-ARM9, ARM10 y ARM11: Avances en procesamiento.
+-Familia Cortex:
+**Cortex-A: Alto rendimiento.**
+-Cortex-R: Tiempo real.
+-Cortex-M: Bajo consumo.
 
 Arm en la actualidad
 En 2017, SoftBank adquirio la empresa y cambio su nombre de ARM a Arm, manteniendo su estrategia de licenciamiento. Actualmente, sus procesadores estan en millones de dispositivos, desde telefonos y tablets hasta servidores y sistemas embebidos. Su enfoque en eficiencia energetica, rendimiento y bajo costo ha sido clave en la revolucion de la computacion movil.
