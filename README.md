@@ -1,2 +1,19 @@
-# Arquitectura-ARM
-Investigacion sobre la Arquitectura ARM TEAM-3-2025-1
+
+
+#Aplicacion
+
+Debido a su amplia aplicabilidad, los procesadores ARM se utilizan en casi todos los entornos industriales:
+
+
+*Teléfonos inteligentes y tabletas:* ARM lidera los mercados de teléfonos inteligentes y tabletas principalmente por sus ventajas de bajo consumo de energía y altos niveles de rendimiento.
+
+*Dispositivos IoT:* los electrodomésticos inteligentes, los dispositivos portátiles inteligentes y los dispositivos IoT similares prefieren insertar un procesador ARM por razones como el menor consumo de energía, la alta escalabilidad y una variedad de productos disponibles en el mercado.
+
+
+*Sistemas integrados:* una arquitectura ARM es adecuada para la mayoría de los sistemas integrados en el sector automotriz, equipos médicos y controles industriales.
+
+
+*Computadoras portátiles y servidores:* corporaciones como Apple han comenzado a utilizar procesadores basados ​​en ARM en MacBooks. AWS está proporcionando instancias basadas en ARM dentro de su infraestructura en la nube .
+
+
+*Dispositivos portátiles:* los procesadores ARM tienen una alta eficiencia con un bajo consumo de energía, lo que permite la optimización de rastreadores de actividad física, relojes inteligentes y otros dispositivos portátiles.
