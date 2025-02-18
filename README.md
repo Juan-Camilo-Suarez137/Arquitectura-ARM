@@ -1,7 +1,5 @@
-# Arquitectura-ARM
-Investigacion sobre la Arquitectura ARM TEAM-3-2025-1
 
-Introduccion de la Arquitectura ARM 
+# Introduccion de la Arquitectura ARM 
 
 La arquitectura ARM (Advanced RISC Machine) es una de las arquitecturas de microprocesadores más influyentes y ampliamente utilizadas 
 en el mundo de la computación moderna. Desde su creación en la década de 1980, ARM ha evolucionado significativamente, adaptándose a 
