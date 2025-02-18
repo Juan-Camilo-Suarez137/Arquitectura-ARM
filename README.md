@@ -170,22 +170,26 @@ qemu-arm ./hola_arm                  # Ejecutar en QEMU
 Copiar
 Editar
 ¡Hola, ARM!
-steven-diaz
- 0e8469e7c7e51b7240cac2623d61f2e2b87b0636
+
 # Aplicacion
 
 Debido a su amplia aplicabilidad, los procesadores ARM se utilizan en casi todos los entornos industriales:
 
 
-*Teléfonos inteligentes y tabletas:* ARM lidera los mercados de teléfonos inteligentes y tabletas principalmente por sus ventajas de bajo consumo de energía y altos niveles de rendimiento.
+Teléfonos inteligentes y tabletas: ARM lidera los mercados de teléfonos inteligentes y tabletas principalmente por sus ventajas de bajo consumo de energía y altos niveles de rendimiento.
 
-*Dispositivos IoT:* los electrodomésticos inteligentes, los dispositivos portátiles inteligentes y los dispositivos IoT similares prefieren insertar un procesador ARM por razones como el menor consumo de energía, la alta escalabilidad y una variedad de productos disponibles en el mercado.
-
-
-*Sistemas integrados:* una arquitectura ARM es adecuada para la mayoría de los sistemas integrados en el sector automotriz, equipos médicos y controles industriales.
+Dispositivos IoT: los electrodomésticos inteligentes, los dispositivos portátiles inteligentes y los dispositivos IoT similares prefieren insertar un procesador ARM por razones como el menor consumo de energía, la alta escalabilidad y una variedad de productos disponibles en el mercado.
 
 
-*Computadoras portátiles y servidores:* corporaciones como Apple han comenzado a utilizar procesadores basados ​​en ARM en MacBooks. AWS está proporcionando instancias basadas en ARM dentro de su infraestructura en la nube .
+Sistemas integrados: una arquitectura ARM es adecuada para la mayoría de los sistemas integrados en el sector automotriz, equipos médicos y controles industriales.
 
 
-*Dispositivos portátiles:* los procesadores ARM tienen una alta eficiencia con un bajo consumo de energía, lo que permite la optimización de rastreadores de actividad física, relojes inteligentes y otros dispositivos portátiles.
+Computadoras portátiles y servidores: corporaciones como Apple han comenzado a utilizar procesadores basados ​​en ARM en MacBooks. AWS está proporcionando instancias basadas en ARM dentro de su infraestructura en la nube .
+
+Dispositivos portátiles: los procesadores ARM tienen una alta eficiencia con un bajo consumo de energía, lo que permite
+La capacidad de los procesadores ARM para realizar operaciones con menos ciclos de reloj y una gestión de energía más eficiente ha 
+sido fundamental para su éxito en dispositivos donde la conservación de la batería es crucial. Además, su arquitectura permite una 
+integración más fácil con otros tipos de tecnologías, lo que facilita el desarrollo de sistemas más compactos y con mejor rendimiento energético.
+
+En los últimos años, ARM ha comenzado a expandirse más allá de su nicho tradicional en dispositivos móviles y embebidos. En el mundo de los servidores y los sistemas de cómputo de alto rendimiento, ARM está ofreciendo alternativas viables a las arquitecturas x86, especialmente en aplicaciones que requieren una gran cantidad de procesamiento paralelo. Este movimiento hacia servidores y centros de datos se debe en parte a su capacidad para manejar múltiples tareas de manera eficiente, reduciendo así los costos operativos y la huella de carbono de estos centros.
+La infraestructura ARM también está siendo adoptada en el campo de la inteligencia artificial y el aprendizaje automático, donde la eficiencia en el procesamiento de grandes volúmenes de datos es esencial. Su habilidad para realizar cálculos complejos con menor consumo de energía la convierte en una opción atractiva para  desarrollar soluciones de IA más sostenibles y económicamente viables.
