@@ -1,3 +1,4 @@
+
 # Arquitectura-ARM
 Investigacion sobre la Arquitectura ARM TEAM-3-2025-1
 
@@ -122,6 +123,31 @@ Direccionamiento Inmediato: El operando es un valor constante dentro de la instr
 - Ejemplo: LDR r3, [r4] // Carga en r3 el valor en la dirección apuntada por r4.
     - Direccionamiento Indirecto: La dirección efectiva se calcula sumando un desplazamiento al contenido de un registro.
 
+# Registro
+
+*¿Qué es?*
+
+Los registros en la arquitectura ARM son ubicaciones de almacenamiento especiales dentro del proceso que pueden contener valores temporales y direcciones de memoria. La arquitectura ARM es ampliamente utilizada en dispositivos electrónicos como teléfonos inteligentes, tables y automóviles.
+
+*Características* 
+
+1)	Se especifican en las instrucciones ARM. 
+2)	Usan 4 bist, lo que puede representar 16 registros. 
+3)	Los nombres mnemotécnicos se especifican como RO a R15. 
+4)	SP, LR y PC son alias para R13, R14 y R15.
+5)	ARM recomienda usar los nombres PS, LR y PC en lugar de R13, R14 y R15.
+
+*Usos de los registros ARM* 
+
+1)	El procesador ARM solo entiende el valor dado utilizando 4 bits en la mayoría de las instrucciones.
+2)	Los registros de configuración controlan el comportamiento de algún elemento o periférico del sistema.
+*Funciones de los registros ARM* 
+
+1)	El R15 se usa como contador de programa o pc 
+2)	El R14 se usa para almacenar la dirección de retomar cuando se llama a una subrutina o se genera una excepción.
+3)	El R13 es el stack Pointe
+
+
 **Código Ejemplo**
 código de ejemplo en ensamblador ARM que imprime "¡Hola, ARM!" en la consola. Este código está diseñado para ARMv7 (32 bits) y puede ejecutarse en un entorno Linux con QEMU y un ensamblador como as y ld.
 
@@ -193,3 +219,4 @@ integración más fácil con otros tipos de tecnologías, lo que facilita el des
 
 En los últimos años, ARM ha comenzado a expandirse más allá de su nicho tradicional en dispositivos móviles y embebidos. En el mundo de los servidores y los sistemas de cómputo de alto rendimiento, ARM está ofreciendo alternativas viables a las arquitecturas x86, especialmente en aplicaciones que requieren una gran cantidad de procesamiento paralelo. Este movimiento hacia servidores y centros de datos se debe en parte a su capacidad para manejar múltiples tareas de manera eficiente, reduciendo así los costos operativos y la huella de carbono de estos centros.
 La infraestructura ARM también está siendo adoptada en el campo de la inteligencia artificial y el aprendizaje automático, donde la eficiencia en el procesamiento de grandes volúmenes de datos es esencial. Su habilidad para realizar cálculos complejos con menor consumo de energía la convierte en una opción atractiva para  desarrollar soluciones de IA más sostenibles y económicamente viables.
+
