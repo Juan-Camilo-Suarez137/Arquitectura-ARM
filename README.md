@@ -99,3 +99,13 @@ Direccionamiento Inmediato: El operando es un valor constante dentro de la instr
 
 - Ejemplo: LDR r3, [r4] // Carga en r3 el valor en la dirección apuntada por r4.
     - Direccionamiento Indirecto: La dirección efectiva se calcula sumando un desplazamiento al contenido de un registro.
+
+# Anexos
+
+## Flujo de trabajo
+
+### Evitar conflictos
+* Realizar git pull antes de realizar cambios o hacer push
+* no modificar los mismos archivos a la vez o almenos las mismas lineas
+* no trabajar en la misma rama de manera simultanea
+* tener una buena comunicacion en el equipo de trabajo para coordinar cambios
